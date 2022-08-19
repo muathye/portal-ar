@@ -1,0 +1,10 @@
+{
+  "name": "vite-muathye",
+  "version": "1.0.0",
+  "description": "A personal channel to the world.",
+  "main": "index.js",
+  "repository": "https://github.com/muathye/portal",
+  "author": "muath-ye",
+  "license": "MIT",
+  "private": false
+}
