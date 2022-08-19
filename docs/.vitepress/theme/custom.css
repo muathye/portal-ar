@@ -360,7 +360,14 @@
 }
 
 /* overriding */
-:root {
-    --vp-c-brand: #646cff;
-    --vp-c-brand-light: #747bff;
+.logo {
+    height: 48px !important;
+}
+
+* {
+    direction: ltr;
+}
+
+table {
+    display: inline-table !important;
 }

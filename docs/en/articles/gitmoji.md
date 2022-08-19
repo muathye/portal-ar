@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # Gitmoji
 
 ## An emoji guide for your commit messages
