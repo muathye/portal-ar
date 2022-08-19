@@ -6,5 +6,10 @@
   "repository": "https://github.com/muathye/portal",
   "author": "muath-ye",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  }
 }
