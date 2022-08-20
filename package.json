@@ -1,0 +1,19 @@
+{
+  "name": "vite-muathye",
+  "version": "0.1.0",
+  "description": "A personal channel to the world.",
+  "main": "index.js",
+  "repository": "https://github.com/muathye/portal",
+  "author": "muath-ye",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.8",
+    "vue": "^3.2.37"
+  }
+}
