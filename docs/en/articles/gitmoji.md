@@ -6,6 +6,8 @@ layout: doc
 
 ## An emoji guide for your commit messages
 
+<span style="color:gray">Updated 20 Aug 2022</span>
+
 |Art|label|Description|
 |-|-|-|
 |👋|\:wave\:|Say hi to the world.|
