@@ -10,8 +10,8 @@ hero:
     alt: muathye
   actions:
     - theme: brand
-      text: Resume
-      link: /resume
+      text: Get Started
+      link: /guide/what-is-vitepress
     - theme: alt
       text: Follow me on Github
       link: https://github.com/muath-ye
