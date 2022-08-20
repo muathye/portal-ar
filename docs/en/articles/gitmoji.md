@@ -8,7 +8,7 @@ layout: doc
 
 |Art|label|Description|
 |-|-|-|
-|👋|\:wave\:|Say hi.|
+|👋|\:wave\:|Say hi to the world.|
 |🎨|\:art\:|Improve structure / format of the code.|
 |⚡️|\:zap\:|Improve performance.|
 |🔥|\:fire\:|Remove code or files.|
