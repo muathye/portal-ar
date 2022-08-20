@@ -29,3 +29,7 @@ layout: doc
 <div class="article-list text-center">
 <a href="/en/articles/gitmoji">An emoji guide for your commit messages</a><span>Updated 20 Aug 2022</span>
 </div>
+
+<div class="article-list text-center">
+<a href="/en/articles/realtime-input-validation">How to create realtime input validation</a><span>Updated 21 Aug 2022</span>
+</div>
