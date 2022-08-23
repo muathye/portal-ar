@@ -1,16 +1,23 @@
 export default {
     title: 'Muath Alsowadi',
     description: 'Founder of @open-sale. On a mission to improve programming quality..',
+    head: [
+        ['link', { rel: 'icon', href: '/favicon.ico' }],
+        ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png', sizes: '180x180' }],
+        ['link', { rel: 'mask-icon', href: '/masked-icon.svg' }],
+        ['meta', { name: 'theme-color', content: '#ffc517' }],
+        ['meta', { 'property': 'og:type', 'content': 'article' }]
+    ],
     themeConfig: {
         logo: '/images/muathye.svg',
         siteTitle: false,
         nav: [
-            { 
+            {
                 text: 'Projects',
                 link: '#',
                 activeMatch: '/projects|/projects/'
             },
-            { 
+            {
                 text: 'Articles',
                 link: '/articles',
                 activeMatch: '/articles|/articles/'
