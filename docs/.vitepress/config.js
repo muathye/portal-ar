@@ -6,7 +6,13 @@ export default {
         ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png', sizes: '180x180' }],
         ['link', { rel: 'mask-icon', href: '/masked-icon.svg' }],
         ['meta', { name: 'theme-color', content: '#ffc517' }],
-        ['meta', { 'property': 'og:type', 'content': 'article' }]
+        ['meta', { 'property': 'og:type', 'content': 'article' }],
+        ['script', { 'async':'', 'src': 'https://www.googletagmanager.com/gtag/js?id=G-07LPKYQVLY' }],
+        [
+            'script',
+            {},
+            'window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag(\'js\', new Date()); gtag(\'config\', \'G-07LPKYQVLY\');'
+        ]
     ],
     themeConfig: {
         logo: '/images/muathye.svg',
