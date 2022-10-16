@@ -1,13 +1,14 @@
 export default {
     title: 'Muath Alsowadi',
     description: 'Founder of @open-sale. On a mission to improve programming quality..',
+    base: 'https://muath-ye.github.io/vita-journal/',
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }],
         ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png', sizes: '180x180' }],
         ['link', { rel: 'mask-icon', href: '/masked-icon.svg' }],
         ['meta', { name: 'theme-color', content: '#ffc517' }],
         ['meta', { 'property': 'og:type', 'content': 'article' }],
-        ['script', { 'async':'', 'src': 'https://www.googletagmanager.com/gtag/js?id=G-07LPKYQVLY' }],
+        ['script', { 'async': '', 'src': 'https://www.googletagmanager.com/gtag/js?id=G-07LPKYQVLY' }],
         [
             'script',
             {},
@@ -17,8 +18,7 @@ export default {
     themeConfig: {
         logo: '/images/muathye.svg',
         siteTitle: false,
-        nav: [
-            {
+        nav: [{
                 text: 'Projects',
                 link: '#',
                 activeMatch: '/projects|/projects/'
