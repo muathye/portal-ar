@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: Muath Alsowadi
-  text: Web designer and developer.
+  text: Web designer & developer.
   tagline: Founder of @open-sale. On a mission to improve programming quality.
   image:
     src: /images/muathye.png
