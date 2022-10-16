@@ -8,7 +8,7 @@ export default defineConfig({
                 name: 'Muath Alsowadi',
                 short_name: 'Muathye',
                 description: 'Founder of @open-sale. On a mission to improve programming quality..',
-                base: '/vita-journal/',
+                // base: '/vita-journal/',
                 theme_color: '#ffc517',
                 icons: [{
                         src: 'pwa-192x192.png',
