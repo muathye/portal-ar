@@ -1,7 +1,7 @@
 export default {
     title: 'Muath Alsowadi',
     description: 'Founder of @open-sale. On a mission to improve programming quality..',
-    base: '/vita-journal/',
+    // base: '/vita-journal/',
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }],
         ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png', sizes: '180x180' }],
