@@ -33,6 +33,11 @@ layout: doc
 </div>
 
 <div class="article-list text-center">
+  <a href="/en/articles/change-default-Laravel-breeze-in-login">How to Change Default Laravel Breeze "email" to "id" in login</a>
+  <span>24 Nov 2022</span>
+</div>
+
+<div class="article-list text-center">
   <a href="/en/articles/realtime-input-validation">How to create realtime input validation</a>
   <span>21 Aug 2022</span>
 </div>
