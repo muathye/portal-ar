@@ -28,6 +28,11 @@ layout: doc
 
 
 <div class="article-list text-center">
+  <a href="/en/articles/chatgpt-arabic-morning-azkar">I Created Morning Azkar Website In Arabic With ChatGPT</a>
+  <span>27 Dec 2022</span>
+</div>
+
+<div class="article-list text-center">
   <a href="/en/articles/add-bootstrap-datepicker-in-modal">How to solve bootstrap datepicker in modal</a>
   <span>26 Dec 2022</span>
 </div>
