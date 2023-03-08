@@ -1,6 +1,6 @@
 module.exports = {
-    title: "My blog", // Website title
-    description: 'my vitepress Blog.', //Website description
+    title: "Muath Alsowadi", // Website title
+    description: 'The personal blog of Muath Alsowadi.', //Website description
     base: '/', //  The default path during deployment / secondary address / base can be used/
     // Lang: 'en US', / / language
     // Page header configuration, icon, css, js
