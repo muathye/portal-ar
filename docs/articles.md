@@ -28,6 +28,11 @@ layout: doc
 
 
 <div class="article-list text-center">
+  <a href="/en/articles/mini-self-hosted-version-chatgpt">How to create a mini self hosted version of ChatGPT</a>
+  <span>08 Mar 2023</span>
+</div>
+
+<div class="article-list text-center">
   <a href="/en/articles/chatgpt-arabic-morning-azkar">I Created Morning Azkar Website In Arabic With ChatGPT</a>
   <span>27 Dec 2022</span>
 </div>
