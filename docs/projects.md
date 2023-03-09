@@ -3,7 +3,7 @@ layout: doc
 ---
 
 <style>
-    span {
+    .project-list span {
       background: var(--vp-c-brand)
     }
     .project-list {
