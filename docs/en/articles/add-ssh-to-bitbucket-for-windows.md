@@ -103,7 +103,7 @@ The solution is by changing the permissions of the private key
 
 ## Apply your ssh to your Bitbucket.org
 
-To add an SSH key to your user account:
+To add an SSH key to your [user account](https://bitbucket.org/account/settings/ssh-keys/):
 
 - At bitbucket.org, select your avatar (Your profile and settings) from the navigation bar at the top of the screen.
 
