@@ -5,15 +5,16 @@ layout: doc
 
 ## Ensure `ssh` is installed on your Windows by opening Powershell
 
-```bat
-Get-Command ssh
-```
+Use the ```Get-Command ssh``` command to check the path of ssh
 
-> CommandType     Name        Version    Source
->
-> -----------     ----        -------    ------
->
-> Application     ssh.exe     8.1.0.1    C:\Windows\System32\OpenSSH\ssh.exe
+
+```bat
+$ Get-Command ssh
+
+CommandType     Name        Version    Source
+-----------     ----        -------    ------
+Application     ssh.exe     8.1.0.1    C:\Windows\System32\OpenSSH\ssh.exe
+```
 
 To configure Git to use the Windows version of OpenSSH, update the SSH command with git config, such as:
 
@@ -27,10 +28,12 @@ To allow git to use your SSH key, an SSH agent needs to be running on your devic
 
 ### Git for Windows users
 
-From a git bash terminal, check if the SSH agent is running using the ps command. If the ssh-agent is already running, it should appear in the output, such as:
+From a git bash terminal, check if the SSH agent is running using the ```ps -a | grep ssh-agent``` command. If the ssh-agent is already running, it should appear in the output, such as:
 
-> $ ps -a | grep ssh-agent
->      3334       1    3334      20284  ?         197108 10:16:11 /usr/bin/ssh-agent
+```
+$ ps -a | grep ssh-agent
+     3334       1    3334      20284  ?         197108 10:16:11 /usr/bin/ssh-agent
+```
 
 To start the agent:
 
@@ -52,17 +55,15 @@ Then To start the agent:
 Start-Service ssh-agent
 ```
 
-To check if the SSH Agent is running using the `Get-Service` command
+To check if the SSH Agent is running use the ```Get-Service ssh-agent``` command
 
 ```bat
-Get-Service ssh-agent
-```
+$ Get-Service ssh-agent
 
-> Status   Name               DisplayName
->
-> ------   ----               -----------
->
-> Running  ssh-agent          OpenSSH Authentication Agent
+Status   Name               DisplayName
+------   ----               -----------
+Running  ssh-agent          OpenSSH Authentication Agent
+```
 
 ## Generate an SSH key pair
 
@@ -70,7 +71,6 @@ Get-Service ssh-agent
 
 ```bat
  cd ~/.ssh && ssh-keygen -t rsa -b 2048
-
 ```
 
 It will ask you to enter the name of the key for example `id_bitbucket_rsa`
@@ -119,6 +119,8 @@ To add an SSH key to your user account:
 
 Pro tip: to copy the content of file to the clipboard use the following as an example
 
+```bat
 cd ~/.ssh && cat id_bitbucket_rsa.pub | clip
+```
 
 :::
