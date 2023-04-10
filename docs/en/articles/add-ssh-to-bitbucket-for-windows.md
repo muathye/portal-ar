@@ -1,9 +1,12 @@
 ---
 layout: doc
 ---
+
 # Add SSH to Bitbucket for Windows
 
-## Ensure `ssh` is installed on your Windows by opening Powershell
+If you have an account on [bitbucket.org](https://bitbucket.org), this article may help you
+
+### Ensure `ssh` is installed on your Windows by opening Powershell
 
 Use the ```Get-Command ssh``` command to check the path of ssh
 
@@ -22,11 +25,11 @@ To configure Git to use the Windows version of OpenSSH, update the SSH command w
 git config --global core.sshCommand C:/Windows/System32/OpenSSH/ssh.exe
 ```
 
-## Start the SSH agent
+### Start the SSH agent
 
 To allow git to use your SSH key, an SSH agent needs to be running on your device.
 
-### Git for Windows users
+#### Git for Windows users
 
 From a git bash terminal, check if the SSH agent is running using the ```ps -a | grep ssh-agent``` command. If the ssh-agent is already running, it should appear in the output, such as:
 
@@ -41,7 +44,7 @@ To start the agent:
 eval $(ssh-agent)
 ```
 
-### Windows OpenSSH users
+#### Windows OpenSSH users
 
 From a PowerShell, configure the SSH agent to start each time the device is started, use the Set-Service command:
 
@@ -65,9 +68,9 @@ Status   Name               DisplayName
 Running  ssh-agent          OpenSSH Authentication Agent
 ```
 
-## Generate an SSH key pair
+### Generate an SSH key pair
 
-### Generate the `ssh` key with the following:
+#### Generate the `ssh` key with the following:
 
 ```bat
  cd ~/.ssh && ssh-keygen -t rsa -b 2048
@@ -77,7 +80,7 @@ It will ask you to enter the name of the key for example `id_bitbucket_rsa`
 
 When prompted to Enter passphrase, you can either provide a password or leave the password empty. If you input a password, you will be prompted for this password each time SSH is used, such as using Git commands (git push, git pull, and git fetch).
 
-### Add the ssh key to your agent
+#### Add the ssh key to your agent
 
 ```bat
 cd ~/.ssh && ssh-add id_bitbucket_rsa
@@ -101,7 +104,7 @@ The solution is by changing the permissions of the private key
 - Change the owner to you, disable inheritance and delete all permissions. Then grant yourself "Full control" and save the permissions.
 
 
-## Apply your ssh to your Bitbucket.org
+### Apply your ssh to your Bitbucket.org
 
 To add an SSH key to your [user account](https://bitbucket.org/account/settings/ssh-keys/):
 
