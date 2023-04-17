@@ -91,6 +91,11 @@ layout: doc
 
 
 <div class="article-list text-center">
+  <span>17 Apr 2023</span>
+  <a href="/en/articles/export-vscode-extensions-list-and-download-them">A Way to Export Visual Studio Code Extensions List and Pulk Install Them</a>
+</div>
+
+<div class="article-list text-center">
   <span>10 Apr 2023</span>
   <a href="/en/articles/add-ssh-to-bitbucket-for-windows">Add SSH to Bitbucket for Windows</a>
 </div>
