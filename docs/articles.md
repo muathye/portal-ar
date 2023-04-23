@@ -91,6 +91,11 @@ layout: doc
 
 
 <div class="article-list text-center">
+  <span>23 Apr 2023</span>
+  <a href="/en/articles/how-to-use-google-maps-api-to-choose-a-location-on-your-website">Step-by-Step Guide: How to Use Google Maps API to Choose a Location on Your Website</a>
+</div>
+
+<div class="article-list text-center">
   <span>17 Apr 2023</span>
   <a href="/en/articles/export-vscode-extensions-list-and-download-them">A Way to Export Visual Studio Code Extensions List and Pulk Install Them</a>
 </div>
