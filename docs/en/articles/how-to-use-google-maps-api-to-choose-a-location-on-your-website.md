@@ -10,7 +10,7 @@ The Google Maps JavaScript API allows developers to embed Google Maps in web pag
 
 ## Prerequisites
 
-Before we get started, you'll need a Google Maps API key. To get one, follow the instructions in this guide: https://developers.google.com/maps/gmp-get-started#create-project
+Before we get started, you'll need a Google Maps API key. To get one, follow the instructions in this guide: [Google Maps API](https://developers.google.com/maps/gmp-get-started#create-project)
 
 ## Step 1: Set up the HTML file
 
@@ -116,4 +116,4 @@ Save the HTML file and open it in a web browser. If everything is set up correct
 
 ## Conclusion
 
-In this tutorial, you learned how to use the Google Maps JavaScript API to display a map and allow the user to choose a location using the provided code. You can customize the map's options and add additional features by exploring the API documentation: https://developers.google.com/maps/documentation/javascript/overview.
+In this tutorial, you learned how to use the Google Maps JavaScript API to display a map and allow the user to choose a location using the provided code. You can customize the map's options and add additional features by exploring the API documentation: [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview).
