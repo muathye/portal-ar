@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Step-by-Step Guide: How to Use Google Maps API to Choose a Location on Your Website
+title: Step-by-Step Guide How to Use Google Maps API to Choose a Location on Your Website
 description: The Google Maps JavaScript API allows developers to embed Google Maps in web pages using JavaScript. In this tutorial, we'll walk through how to use the API to display a map and allow the user to choose a location using the provided code.
 ---
 
