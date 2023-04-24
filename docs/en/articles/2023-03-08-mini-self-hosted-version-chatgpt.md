@@ -1,5 +1,7 @@
 ---
 layout: blog
+title: How to create a mini self hosted version of ChatGPT
+description: Creating a language model like ChatGPT (Chat Generative Pre-trained Transformer) requires significant knowledge of deep learning and natural language processing (NLP) techniques. The process involves collecting and preprocessing large datasets, building and training a deep learning model, and hosting an API to handle user requests and generate responses.
 ---
 <style>
     .img {

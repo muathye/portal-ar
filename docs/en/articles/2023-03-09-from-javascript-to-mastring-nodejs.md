@@ -1,5 +1,7 @@
 ---
 layout: doc
+title: From JavaScript to Deployment: A Step-by-Step Tips to Mastering Node.js and Building Powerful Web Applications
+description: Node.js is a popular and powerful platform for building scalable and efficient web applications. If you're interested in learning Node.js, you need to have a structured learning path or roadmap to guide you through the process. In this article, we'll provide a detailed step-by-step guide to help you get started with Node.js.
 ---
 
 # From JavaScript to Deployment: A Step-by-Step Tips to Mastering Node.js and Building Powerful Web Applications

@@ -1,5 +1,7 @@
 ---
 layout: doc
+title: Add SSH to Bitbucket for Windows
+description: Add SSH to Bitbucket for Windows
 ---
 
 # Add SSH to Bitbucket for Windows

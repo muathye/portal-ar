@@ -1,5 +1,7 @@
 ---
 layout: doc
+title: I Created Morning Azkar Website In Arabic With ChatGPT
+description: Azkar is the plural of Zikr and refers to remembrances. The morning and evening Zikr are a collection of duʿās and remembrances prescribed by the Messenger ﷺ which a Muslim should read on a daily basis in the morning and evening.
 ---
 
 # I Created Morning Azkar Website In Arabic With ChatGPT

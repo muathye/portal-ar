@@ -1,5 +1,7 @@
 ---
 layout: doc
+title: Laravel Nested Eager Loading on Polymorphic Relationships
+description: Sometimes you need to eager load different relationships depending on the type of model on a polymorphic relationship.
 ---
 
 # Laravel Nested Eager Loading on Polymorphic Relationships

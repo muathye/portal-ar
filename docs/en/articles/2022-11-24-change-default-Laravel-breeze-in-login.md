@@ -1,5 +1,7 @@
 ---
 layout: doc
+title: How to Change Default Laravel Breeze "email" to "id" in login
+description: How to Change Default Laravel Breeze "email" to "id" in login page and request.
 ---
 # How to Change Default Laravel Breeze "email" to "id" in login
 

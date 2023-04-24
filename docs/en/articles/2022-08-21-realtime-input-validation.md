@@ -1,5 +1,7 @@
 ---
 layout: doc
+title: Realtime input validation
+description: Sometimes we need to make a powerful validation like Laravel validation but it works in the backend and we want it to be in font-end specially on the `input` itself.
 ---
 
 # Realtime input validation

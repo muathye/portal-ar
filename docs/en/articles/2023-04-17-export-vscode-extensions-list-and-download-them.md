@@ -1,5 +1,7 @@
 ---
 layout: doc
+title: A Way to Export Visual Studio Code Extensions List and Pulk Install Them
+description: how to export the list of installed extensions and install them on a new machine.
 ---
 
 ![An image](/articles/2023-04-17/export-vscode-extensions-list.png)
