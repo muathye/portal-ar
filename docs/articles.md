@@ -84,11 +84,19 @@ layout: doc
       font-size: 56px;
       color: var(--vp-c-yellow);
     }
+    .rtl {
+      direction: rtl
+    }
 </style>
 
 
 <h1 class="title">Articles</h1>
 
+
+<div class="article-list text-center rtl">
+  <span>24 Apr 2023</span>
+  <a class="rtl" href="/ar/articles/2023-04-24-clone-private-github-repository-using-ssh">أستنساخ مستودع قتهب خاص باستخدام SSH</a>
+</div>
 
 <div class="article-list text-center">
   <span>23 Apr 2023</span>

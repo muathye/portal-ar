@@ -5,23 +5,7 @@ dir: rtl
 title: استنساخ مستودع قتهب خاص باستخدام SSH
 description: إذا كان لديك مستودع خاص في قتهب وتريد استنساخ هذا المستودع في سيرفر أو جهازك الشخصي عن طريق SSH تابع هذه المقالة
 date: 2023-04-24
-prev:
-  text: 'Markdown'
-  link: '/en/articles/2023-04-10-add-ssh-to-bitbucket-for-windows'
-next:
-  text: 'Markdown'
-  link: '/en/articles/2023-04-10-add-ssh-to-bitbucket-for-windows'
-#   link: '/en/articles/2023-04-10-add-ssh-to-bitbucket-for-windows'
 ---
-<!-- 
-<style>
-    body, h1, h2, h3, p, div, ul, li, ol {
-        direction: rtl;
-    }
-    pre, code {
-        direction: ltr;
-    }
-</style> -->
 
 # أستنساخ مستودع قتهب خاص باستخدام SSH
 
