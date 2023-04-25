@@ -108,7 +108,7 @@ ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdTItbmlMjEAABAGKIkR0
 
 أذهب إلى `settings` المستودع أو `settings` الحساب الشخصي ، ثم اختر من القائمة الجانبية `Deploy Keys` وقم بإضافة مفتاح جديد بالنقر على `Add deploy key` أعلى يمين الصفحة كما بالصورة التالية:
 
-![An image](/articles/2023-04-25/deploy-keys.png)
+![An image](/articles/2023-04-24/deploy-keys.png)
 
 ::: info ملاحظة
 إذا أردت أن تربط مستودع واحد بالسيرفر قم بتطبيق الخطوات في إعدادات المستودع نفسه ، أما إذا أردت أن تربط حسابك مع السيرفر بحيث تكون جميع مستودعاتك مربوطة بالسيرفر فقم بتطبيق الخطوات السابقة في إعدادات الحساب الشخصي.
@@ -121,11 +121,11 @@ ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdTItbmlMjEAABAGKIkR0
 - `Key` : قم بلصق محتوى المفتاح العام الذي قمنا بنسخه بالخطوة السابقة `id_ecdsa_github.pub`.
 - `Allow write access` : قم بالتحديد على هذا الخيار لكي تتمكن من رفع التعديلات من السيرفر إلى المستودع، فبدون هذا الخيار ستتمكن من سحب التعديلات من المستودع إلى السيرفر ولن تستطيع رفع أي تعديلات إلى المستودع.
 
-![An image](/articles/2023-04-25/add-deploy-key.png)
+![An image](/articles/2023-04-24/add-deploy-key.png)
 
 قم بتأكيد حسابك بإدخال كلمة المرور أو رمز OTP ، وستجد المفتاح قد تم إنشائه:
 
-![An image](/articles/2023-04-25/deploy-key.png)
+![An image](/articles/2023-04-24/deploy-key.png)
 
 ::: info ملاحظة
 إلى هنا نكون قد أنهينا ربط المستودع بالسيرفر.
@@ -135,7 +135,7 @@ ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdTItbmlMjEAABAGKIkR0
 
 لعمل نسخة من المستودع في السيرفر سنحتاج إلى رابط المستودع لكي نقوم باستخدامه في عملية النسخ ، وللحصول على الرابط نذهب إلى الصفحة الرئيسية للمستودع ثم ننسخ الرابط الخاص ب SSH والذي سيكون مشابه لـ`git@github.com:open-sale/open-sale-web.git` انظر الصورة التالية:
 
-![An image](/articles/2023-04-25/ssh-clone-url.png)
+![An image](/articles/2023-04-24/ssh-clone-url.png)
 
 بعد نسخ رابط المستودع الخاص بـ SSH سنقوم بعمل الاستنساخ في السيرفر بالأوامر التالية:
 
