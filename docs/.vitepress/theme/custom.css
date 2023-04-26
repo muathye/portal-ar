@@ -372,10 +372,8 @@ table {
     display: inline-table !important;
 }
 
-@media (min-width: 768px) {
-    .VPFooter[data-v-80147a0d] {
-        padding: 5px;
-    }
+.VPFooter[data-v-80147a0d] {
+    padding: 5px;
 }
 
 body {
