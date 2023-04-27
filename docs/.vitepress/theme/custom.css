@@ -372,10 +372,6 @@ table {
     display: inline-table !important;
 }
 
-.VPFooter {
-    padding: 5px;
-}
-
 body {
     background: url('/images/background/docs-dark@tinypng.1bbe175e.png');
     height: 100vh;
@@ -383,12 +379,22 @@ body {
     background-repeat: no-repeat;
 }
 
+.dark header.VPNav.no-sidebar {
+    background: rgba(36,36,36,.2) !important;
+}
+header.VPNav.no-sidebar {
+    background: rgba(255,255,255,.2) !important;
+}
+
 .VPFooter,
 .VPNav.no-sidebar {
     background: rgba(255, 255, 255, 0.2);
+    padding: 5px;
 }
+
 
 .dark .VPFooter,
 .dark .VPNav.no-sidebar {
     background: rgba(36, 36, 36, 0.2);
+    padding: 5px;
 }
