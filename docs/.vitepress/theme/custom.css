@@ -372,7 +372,7 @@ table {
     display: inline-table !important;
 }
 
-.VPFooter[data-v-80147a0d] {
+.VPFooter {
     padding: 5px;
 }
 
@@ -383,12 +383,12 @@ body {
     background-repeat: no-repeat;
 }
 
-.VPFooter[data-v-80147a0d],
-.VPNav.no-sidebar[data-v-9397ee4e] {
+.VPFooter,
+.VPNav.no-sidebar {
     background: rgba(255, 255, 255, 0.2);
 }
 
-.dark .VPFooter[data-v-80147a0d],
-.dark .VPNav.no-sidebar[data-v-9397ee4e] {
+.dark .VPFooter,
+.dark .VPNav.no-sidebar {
     background: rgba(36, 36, 36, 0.2);
 }
