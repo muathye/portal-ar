@@ -94,6 +94,11 @@ layout: doc
 
 
 <div class="article-list text-center rtl">
+  <span>25 Apr 2023</span>
+  <a class="rtl" href="/ar/articles/2023-04-25-solve-the-page-expired-419-error-in-laravel">حل مشكلة انتهاء الصحفة 419 في مشروع لارافيل</a>
+</div>
+
+<div class="article-list text-center rtl">
   <span>24 Apr 2023</span>
   <a class="rtl" href="/ar/articles/2023-04-24-clone-private-github-repository-using-ssh">أستنساخ مستودع قتهب خاص باستخدام SSH</a>
 </div>
