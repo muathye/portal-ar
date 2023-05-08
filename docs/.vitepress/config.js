@@ -1,6 +1,6 @@
 export default {
-    title: 'Muath Alsowadi',
-    description: 'Founder of @open-sale. On a mission to improve programming quality..',
+    title: 'معاذ السوادي',
+    description: 'مؤسس @open-sale. في مهمة لتحسين تطوير البرمجيات..',
 
     // lastUpdated: true,
     cleanUrls: true,
