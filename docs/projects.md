@@ -90,7 +90,7 @@ layout: doc
 </style>
 
 
-<h1 class="title">Projects</h1>
+<h1 class="title">المشاريع</h1>
 
 <div class="card project-list text-center">
   <span>Not released</span>

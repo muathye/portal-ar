@@ -26,6 +26,7 @@ git config --global  user.email "YOUR EMAIL"
 ```sh
 cd ~/.ssh && ssh-keygen -t ecdsa -b 521 -C "your_email@example.com"
 ```
+إطلع أكثر على [تفاصيل إنشاء مفتاح SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 
 ::: tip  تلميح
 قد لا تنجح الطريقة بسبب عدم توفر مجلد `.ssh` ، قم بإنشاء المجلد بنفسك كما يلي:
@@ -244,3 +245,10 @@ git clone git@github.com:open-sale/open-sale-web.git
 ```sh
 git pull
 ```
+
+::: tip تلميح
+هذان الأمرين استخدمهما كثيرا في كل مرة أدخل `terminal` الاستضافة.
+```sh
+eval `ssh-agent -s`; ssh-add ~/.ssh/id_ecdsa_github
+```
+:::

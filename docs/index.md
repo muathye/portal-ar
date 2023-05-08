@@ -2,17 +2,17 @@
 layout: home
 
 hero:
-  name: Muath Alsowadi
-  text: Web designer & developer.
-  tagline: Founder of @open-sale. On a mission to improve programming quality.
+  name: معاذ السوادي
+  text: مصمم ومطور مواقع الويب.
+  tagline: مؤسس @open-sale. في مهمة لتحسين تطوير البرمجيات.
   image:
     src: /images/muathye.png
     alt: muathye
   actions:
     - theme: brand
-      text: Resume
+      text: السيرة الذاتية
       link: /resume
     - theme: alt
-      text: Follow me on Github
+      text: تابعني على قتهب
       link: https://github.com/muath-ye
 ---
