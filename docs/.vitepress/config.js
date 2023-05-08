@@ -34,7 +34,7 @@ export default {
     // },
     themeConfig: {
         logo: '/images/muathye.svg',
-        siteTitle: "معاذ السوادي",
+        siteTitle: false,
         nav: [{
                 text: 'المشاريع',
                 link: '/projects',

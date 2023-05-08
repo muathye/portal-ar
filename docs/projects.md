@@ -87,58 +87,62 @@ layout: doc
       width: 100vw;
       height: auto;
     }
+
+    .list {
+      margin: 0 30px !important
+    }
 </style>
 
 
 <h1 class="title">المشاريع</h1>
 
 <div class="card project-list text-center">
-  <span>Not released</span>
-  <a class="title-center" href="https://open-sale.muathye.com" target="_blank">OpenSale [under construction]</a>
-  <p>An open source e-commerce platform built with Laravel and flutter.</p>
-  <p>We've already crafted the store for web sailors just like you — freeing you to shop without walking in malls.</p>
+  <span>لم بتم النشر</span>
+  <a class="title-center" href="https://open-sale.muathye.com" target="_blank">OpenSale [تحت التطوير]</a>
+  <p>منصة تجارة إلكترونية مفتوحة المصدر مبنية ب Laravel و Flutter.</p>
+  <p>لقد صممنا المتجر بالفعل للبحارة على شبكة الإنترنت مثلك - مما يتيح لك التسوق دون الحاجة إلى المشي في المراكز التجارية.</p>
   <div class="module-border-wrap">
     <img class ="module" src="/projects/OpenSale/open-sale.svg"/>
   </div>
 </div>
 
 <div class="card project-list text-center">
-  <span>Dec 2022</span>
+  <span>ديسمبر 2022</span>
   <a class="title-center" href="https://eazycare.app" target="_blank">eazycare.app</a>
-  <p>Searching and booking for laboratory tests and radiology imaging.</p>
+  <p>البحث والحجز لإجراء الفحوصات المخبرية والصور الشعاعية.</p>
   <div class="module-border-wrap">
     <img class ="module" src="/projects/eazycare.app/new-logo.svg"/>
   </div>
 </div>
 
 <div class="card project-list text-center">
-  <span>Nov 2021</span>
+  <span>نوفمبر 2021</span>
   <a class="title-center" href="https://sdelivery.co" target="_blank">sdelivery.co</a>
-  <p>A delivery platform reservation of hotels, event halls and various services.</p>
+  <p>منصة توصيل الحجوزات للمطاعم والصيدليات والخدمات المختلفة.</p>
   <div class="module-border-wrap">
     <img class ="module" src="/projects/sdelivery.co/light.png"/>
   </div>
 </div>
 
 <div class="card project-list text-center">
-  <span>Dec 2020</span>
+  <span>ديسمبر 2020</span>
   <a class="title-center" href="https://booking-a.com" target="_blank">booking-a.com</a>
-  <p>A booking platform for reservation of hotels, event halls and various services.</p>
+  <p>منصة حجوزات لحجز الفنادق وقاعات الأحداث والخدمات المختلفة.</p>
   <div class="module-border-wrap">
     <img class ="module" src="/projects/booking-a.com/booking-a-logo.jpg"/>
   </div>
 </div>
 
 <div class="card project-list text-center">
-  <span>July 2019</span>
+  <span>يوليو 2019</span>
   <a class="title-center" href="https://mokasweets.com" target="_blank">mokasweets.com</a>
-  <p>An e-commerce platform for a famous bakery in Yemen</p>
-  <ul>
-    <li>Built the platform website using Laravel Framework.</li>
-    <li>Built Laravel framework Backend.</li>
-    <li>API support for flutter applications.</li>
-    <li>Used svn to manage source code.</li>
-    <li>Used VPS server for hosting the project.</li>
+  <p>منصة تجارية إلكترونية لمتجر مشهور باليمن</p>
+  <ul class="list">
+    <li>تم بناء موقع المنصة باستخدام إطار عمل لارافيل Laravel.</li>
+    <li>تم بناء الجزء الخلفي Backend باستخدام إطار عمل لارافيل Laravel.</li>
+    <li>دعم API لتطبيقات Flutter.</li>
+    <li>تم استخدام SVN لإدارة الشفرة المصدرية.</li>
+    <li>تم استخدام خادم VPS لاستضافة المشروع.</li>
   </ul>
   <div class="module-border-wrap">
     <img class ="module" src="/projects/mokasweets.com/mokasweets-logo.svg"/>

@@ -365,7 +365,8 @@
 }
 
 h1,h2,h3,h4,h5,h6,
-p,span, header, table, a {
+p,span, header, table, a
+ul, ol, li {
     direction: rtl;
     text-align: start;
 }
