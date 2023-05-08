@@ -424,7 +424,6 @@ header.VPNav.no-sidebar {
     background: rgba(36, 36, 36, 0.2);
     padding: 5px !important;
 }
-.dark .VPFooter,
 .VPFooter {
-    /* display: flex; */
+    display: flex;
 }
