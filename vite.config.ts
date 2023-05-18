@@ -1,13 +1,17 @@
+import { defineConfig } from 'vite'
 import { VitePWA } from 'vite-plugin-pwa'
+import { vue } from '@vitejs/plugin-vue'
+
 export default defineConfig({
     plugins: [
+        vue(),
         VitePWA({
             registerType: 'autoUpdate',
             includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'masked-icon.svg'],
             manifest: {
-                name: 'Muath Alsowadi',
+                name: 'معاذ السوادي',
                 short_name: 'Muathye',
-                description: 'Founder of @open-sale. On a mission to improve programming quality..',
+                description: 'مؤسس @open-sale. في مهمة لتحسين تطوير البرمجيات..',
                 // base: '/vita-journal/',
                 theme_color: '#ffc517',
                 icons: [{

@@ -13,6 +13,8 @@
     "docs:serve": "vitepress serve docs"
   },
   "devDependencies": {
+    "@vite-pwa/vitepress": "^0.0.5",
+    "@vitejs/plugin-vue": "^4.2.3",
     "vite-plugin-pwa": "^0.12.3",
     "vitepress": "^1.0.0-alpha.8",
     "vue": "^3.2.37",
