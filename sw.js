@@ -91,7 +91,7 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
 
   workbox.precacheAndRoute([{
     "url": "404.html",
-    "revision": "c832450809cbf8b459bb76eac19823d7"
+    "revision": "e2967d0f82acdf663ff660a1c89815a2"
   }, {
     "url": "android-chrome-192x192.png",
     "revision": "8b6f412bda677ba08ec46492d2dbbb23"
@@ -103,13 +103,13 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "25ab1e6e2615ec76f1febb7ecacf1ba4"
   }, {
     "url": "ar/index.html",
-    "revision": "dbd9d9df29e561d1355dd1390cf4a283"
+    "revision": "ecd30f403fceaac362f9eefb2b2e464a"
   }, {
     "url": "articles.html",
-    "revision": "04e60c8a11bb3201cff299f8386a3304"
+    "revision": "8f0eac2a1f770af019586dda26b09c43"
   }, {
     "url": "articles/2022-08-20-gitmoji.html",
-    "revision": "f937e5258e85f8507cf23ad9ce42e744"
+    "revision": "5bf748c84a5dbb3880a7a8eb6ded7f85"
   }, {
     "url": "articles/2022-12-26/modal-datetime-picker.png",
     "revision": "15769119e7cce9ba9a116fac03e9f5d6"
@@ -121,7 +121,7 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "a20d809a2b93470f70bed0c150f3502c"
   }, {
     "url": "articles/2023-04-24-clone-private-github-repository-using-ssh.html",
-    "revision": "6448af8fc6dd012b8c8da3a8eceae843"
+    "revision": "17b13cc689d6699563da0113da1843a6"
   }, {
     "url": "articles/2023-04-24/add-deploy-key.png",
     "revision": "d3f730d15093bdf2f47998f05704b31d"
@@ -136,7 +136,7 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "104c5e43ba39312783c03db8f71d3e69"
   }, {
     "url": "articles/2023-04-25-solve-the-page-expired-419-error-in-laravel.html",
-    "revision": "b977a87e2dd5a84ca2089fa9421d8402"
+    "revision": "35ce32f9931e64af0ff9c23f692aa5cb"
   }, {
     "url": "articles/2023-04-25/419-page-expired.png",
     "revision": "9d61d2526077ba165148c154ab8853a7"
@@ -277,7 +277,7 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "8b8e61771570c80c5470b1adaf2c44ee"
   }, {
     "url": "index.html",
-    "revision": "b81e813d6b9ff4b2e17996505f8be269"
+    "revision": "e80a03dc33ab597c6c78dcdb1bf725b9"
   }, {
     "url": "masked-icon.svg",
     "revision": "8b8e61771570c80c5470b1adaf2c44ee"
@@ -286,7 +286,7 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "f020256b2109323117574ed955e15b13"
   }, {
     "url": "projects.html",
-    "revision": "03b8c7f75c1be321bb26e83a0763c75f"
+    "revision": "83ae47976db6cf11b03a88b8ac66b2c5"
   }, {
     "url": "projects/eazycare.app/new-logo.svg",
     "revision": "8bcc0aef753052adae872ffae4e45ac4"
@@ -313,7 +313,7 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "1872c500de691dce40960bb85481de07"
   }, {
     "url": "resume.html",
-    "revision": "e65053ccdcf8143eeb0d7a86416ddc7d"
+    "revision": "9f160018c5a62fc7dbcacd0c57f83371"
   }, {
     "url": "robots.txt",
     "revision": "5e0bd1c281a62a380d7a948085bfe2d1"
