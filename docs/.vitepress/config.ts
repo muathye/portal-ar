@@ -18,6 +18,7 @@ export default withPwa(defineConfig({
 
     // base: '/vita-journal/',
     head: [
+        ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
         ['link', { rel: 'icon', href: '/favicon.ico' }],
         ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png', sizes: '180x180' }],
         ['link', { rel: 'mask-icon', href: '/masked-icon.svg' }],
