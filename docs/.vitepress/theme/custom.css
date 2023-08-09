@@ -145,12 +145,58 @@
    * -------------------------------------------------------------------------- */
 
 :root {
-    --vp-font-family-base: 'Inter var experimental', 'Inter var', -apple-system,
+    --vp-font-family-base: 'BM Plex Sans Arabic', 'Inter var experimental', 'Inter var', -apple-system,
         BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
         'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    /* --vp-font-family-mono: 'BM Plex Sans Arabic', Menlo, Monaco, Consolas, 'Courier New', monospace; */
     --vp-font-family-mono: Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 
+@font-face {
+    font-family: 'BM Plex Sans Arabic';
+    src: url('../../public/fonts/IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Bold.ttf');
+    font-weight: Bold;
+}
+
+/* @font-face {
+    font-family: 'BM Plex Sans Arabic';
+    src: url('../../public/fonts/IBM_Plex_Sans_Arabic/IBMPlexSansArabic-ExtraLight.ttf');
+    font-weight: ExtraLight;
+} */
+
+/* @font-face {
+    font-family: 'BM Plex Sans Arabic';
+    src: url('../../public/fonts/IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Light.ttf');
+    font-weight: Light;
+} */
+
+@font-face {
+    font-family: 'BM Plex Sans Arabic';
+    src: url('../../public/fonts/IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Medium.ttf');
+    font-weight: Medium;
+}
+
+@font-face {
+    font-family: 'BM Plex Sans Arabic';
+    src: url('../../public/fonts/IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Regular.ttf');
+    font-weight: Regular;
+}
+
+/* @font-face {
+    font-family: 'BM Plex Sans Arabic';
+    src: url('../../public/fonts/IBM_Plex_Sans_Arabic/IBMPlexSansArabic-SemiBold.ttf');
+    font-weight: SemiBold;
+} */
+
+/* @font-face {
+    font-family: 'BM Plex Sans Arabic';
+    src: url('../../public/fonts/IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Thin.ttf');
+    font-weight: Thin;
+} */
+
+*:not(pre code):not(.language-blade) {
+    font-family: 'BM Plex Sans Arabic';
+}
 /**
    * Shadows
    * -------------------------------------------------------------------------- */
