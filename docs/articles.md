@@ -74,6 +74,11 @@ layout: doc
 
 <div class="article-list text-center">
   <span>25 Apr 2023</span>
+  <a href="/articles/2023-08-09-getting-started-with-git">دليل استخدام أوامر Git بكل سهولة ويسر</a>
+</div>
+
+<div class="article-list text-center">
+  <span>25 Apr 2023</span>
   <a href="/articles/2023-04-25-solve-the-page-expired-419-error-in-laravel">حل مشكلة انتهاء الصحفة 419 في مشروع لارافيل</a>
 </div>
 
