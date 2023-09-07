@@ -13,6 +13,7 @@ layout: doc
       border-radius: 5px;
       margin: 5px 0;
       padding: 5px;
+      direction: rtl;
       
     }
     .article-list:hover {
@@ -71,6 +72,11 @@ layout: doc
 
 <h1 class="title">المقالات</h1>
 
+
+<div class="article-list text-center">
+  <span>07 Sep 2023</span>
+  <a href="/articles/2023-09-07-local-mail-server">اختبر رسائل البريد الإلكتروني أثناء العمل على "localhost" باستخدام "Mailhog"</a>
+</div>
 
 <div class="article-list text-center">
   <span>25 Apr 2023</span>
