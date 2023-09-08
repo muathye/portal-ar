@@ -91,7 +91,7 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
 
   workbox.precacheAndRoute([{
     "url": "404.html",
-    "revision": "46ddf4cb9724425ed78b52918f1e8af1"
+    "revision": "b6d642471d7f0c7046c7f1df51eb84ee"
   }, {
     "url": "android-chrome-192x192.png",
     "revision": "8b6f412bda677ba08ec46492d2dbbb23"
@@ -103,13 +103,13 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "25ab1e6e2615ec76f1febb7ecacf1ba4"
   }, {
     "url": "ar/index.html",
-    "revision": "eb3bcf92bd37f85b43fa156eddea953b"
+    "revision": "30031163c1d21784e632ea98d74be59c"
   }, {
     "url": "articles.html",
-    "revision": "e84f807295e2be5b7fd96c3fa7a6a3e2"
+    "revision": "519d8e9bad2f9268bd5a309f154a56bd"
   }, {
     "url": "articles/2022-08-20-gitmoji.html",
-    "revision": "aea74491bb5b34dfdb70db3d2aa8fa39"
+    "revision": "d4844faff98d1448059fcfe587331941"
   }, {
     "url": "articles/2022-12-26/modal-datetime-picker.png",
     "revision": "15769119e7cce9ba9a116fac03e9f5d6"
@@ -121,7 +121,7 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "a20d809a2b93470f70bed0c150f3502c"
   }, {
     "url": "articles/2023-04-24-clone-private-github-repository-using-ssh.html",
-    "revision": "4241f61ec65253f9b1f6a544723e65dc"
+    "revision": "075ffc04205969ceab2e50d0644968bd"
   }, {
     "url": "articles/2023-04-24/add-deploy-key.png",
     "revision": "d3f730d15093bdf2f47998f05704b31d"
@@ -136,16 +136,16 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "104c5e43ba39312783c03db8f71d3e69"
   }, {
     "url": "articles/2023-04-25-solve-the-page-expired-419-error-in-laravel.html",
-    "revision": "6d8c6500bf283e1d19f168d3056e9db0"
+    "revision": "f84a66bb81431636a8d2b58a090976be"
   }, {
     "url": "articles/2023-04-25/419-page-expired.png",
     "revision": "9d61d2526077ba165148c154ab8853a7"
   }, {
     "url": "articles/2023-08-09-getting-started-with-git.html",
-    "revision": "499429c3435fb51f8a61d0883a3a4351"
+    "revision": "094e4b7ee2e34b4982b80cfbd70f44d4"
   }, {
     "url": "articles/2023-09-07-local-mail-server.html",
-    "revision": "94e9b45e2dfe082ae04fb56d9a4a73b5"
+    "revision": "0457e7eee0a0abc479637c1229ac70d2"
   }, {
     "url": "articles/2023-09-07/laravel-mailhog-test-email.png",
     "revision": "05576a9e821d52621912e854a5448b73"
@@ -186,10 +186,10 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "url": "assets/articles_2023-08-09-getting-started-with-git.md.8f417090.lean.js",
     "revision": null
   }, {
-    "url": "assets/articles_2023-09-07-local-mail-server.md.183270b9.js",
+    "url": "assets/articles_2023-09-07-local-mail-server.md.1a1485cf.js",
     "revision": null
   }, {
-    "url": "assets/articles_2023-09-07-local-mail-server.md.183270b9.lean.js",
+    "url": "assets/articles_2023-09-07-local-mail-server.md.1a1485cf.lean.js",
     "revision": null
   }, {
     "url": "assets/articles.md.d9f24783.js",
@@ -310,7 +310,7 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "8b8e61771570c80c5470b1adaf2c44ee"
   }, {
     "url": "index.html",
-    "revision": "863d0d200a7a93a23662907dd73b00c3"
+    "revision": "2b1a819548b3d9ae2918c7b91e36fe6b"
   }, {
     "url": "masked-icon.svg",
     "revision": "8b8e61771570c80c5470b1adaf2c44ee"
@@ -319,7 +319,7 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "f020256b2109323117574ed955e15b13"
   }, {
     "url": "projects.html",
-    "revision": "99b8a7d286faf3ee72bf13ac938cc122"
+    "revision": "f57418b39341103e782631e5fc2a4515"
   }, {
     "url": "projects/eazycare.app/new-logo.svg",
     "revision": "8bcc0aef753052adae872ffae4e45ac4"
@@ -346,7 +346,7 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "1872c500de691dce40960bb85481de07"
   }, {
     "url": "resume.html",
-    "revision": "d556a1b8218ea5b7abb44dc94d6cbea0"
+    "revision": "b6fa6d23687a9c05b16f58bacdb2d127"
   }, {
     "url": "robots.txt",
     "revision": "5e0bd1c281a62a380d7a948085bfe2d1"
