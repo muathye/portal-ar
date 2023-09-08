@@ -91,7 +91,7 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
 
   workbox.precacheAndRoute([{
     "url": "404.html",
-    "revision": "a3d703f42a1ff86f42e2fbcf3807910e"
+    "revision": "46ddf4cb9724425ed78b52918f1e8af1"
   }, {
     "url": "android-chrome-192x192.png",
     "revision": "8b6f412bda677ba08ec46492d2dbbb23"
@@ -103,13 +103,13 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "25ab1e6e2615ec76f1febb7ecacf1ba4"
   }, {
     "url": "ar/index.html",
-    "revision": "58c1bfeefe7683223ad885b21895f581"
+    "revision": "eb3bcf92bd37f85b43fa156eddea953b"
   }, {
     "url": "articles.html",
-    "revision": "df03d08a9fa53d42e92c55d0cc1188ab"
+    "revision": "e84f807295e2be5b7fd96c3fa7a6a3e2"
   }, {
     "url": "articles/2022-08-20-gitmoji.html",
-    "revision": "15c99578a81f08ee355c934b4d9c89c4"
+    "revision": "aea74491bb5b34dfdb70db3d2aa8fa39"
   }, {
     "url": "articles/2022-12-26/modal-datetime-picker.png",
     "revision": "15769119e7cce9ba9a116fac03e9f5d6"
@@ -121,7 +121,7 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "a20d809a2b93470f70bed0c150f3502c"
   }, {
     "url": "articles/2023-04-24-clone-private-github-repository-using-ssh.html",
-    "revision": "837e84a67300c8e8aff5d23e2309a3f4"
+    "revision": "4241f61ec65253f9b1f6a544723e65dc"
   }, {
     "url": "articles/2023-04-24/add-deploy-key.png",
     "revision": "d3f730d15093bdf2f47998f05704b31d"
@@ -136,16 +136,16 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "104c5e43ba39312783c03db8f71d3e69"
   }, {
     "url": "articles/2023-04-25-solve-the-page-expired-419-error-in-laravel.html",
-    "revision": "d44f4e99002c41d1089489726cd98639"
+    "revision": "6d8c6500bf283e1d19f168d3056e9db0"
   }, {
     "url": "articles/2023-04-25/419-page-expired.png",
     "revision": "9d61d2526077ba165148c154ab8853a7"
   }, {
     "url": "articles/2023-08-09-getting-started-with-git.html",
-    "revision": "81c82a7d7aebcd83562ff66bfe01505d"
+    "revision": "499429c3435fb51f8a61d0883a3a4351"
   }, {
     "url": "articles/2023-09-07-local-mail-server.html",
-    "revision": "af1ee861a5b5488ac10a736e5dd8a357"
+    "revision": "94e9b45e2dfe082ae04fb56d9a4a73b5"
   }, {
     "url": "articles/2023-09-07/laravel-mailhog-test-email.png",
     "revision": "05576a9e821d52621912e854a5448b73"
@@ -153,55 +153,55 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "url": "articles/2023-09-07/local-mail-server.png",
     "revision": "6fcd6dbe4184fb3bf79517fd5977139c"
   }, {
-    "url": "assets/app.d4e38dc9.js",
+    "url": "assets/app.4a6f0a7c.js",
     "revision": null
   }, {
-    "url": "assets/ar_index.md.7878dbb1.js",
+    "url": "assets/ar_index.md.c2dfb1c7.js",
     "revision": null
   }, {
-    "url": "assets/ar_index.md.7878dbb1.lean.js",
+    "url": "assets/ar_index.md.c2dfb1c7.lean.js",
     "revision": null
   }, {
-    "url": "assets/articles_2022-08-20-gitmoji.md.1852339d.js",
+    "url": "assets/articles_2022-08-20-gitmoji.md.7cac2dd0.js",
     "revision": null
   }, {
-    "url": "assets/articles_2022-08-20-gitmoji.md.1852339d.lean.js",
+    "url": "assets/articles_2022-08-20-gitmoji.md.7cac2dd0.lean.js",
     "revision": null
   }, {
-    "url": "assets/articles_2023-04-24-clone-private-github-repository-using-ssh.md.86016d7f.js",
+    "url": "assets/articles_2023-04-24-clone-private-github-repository-using-ssh.md.b141dc58.js",
     "revision": null
   }, {
-    "url": "assets/articles_2023-04-24-clone-private-github-repository-using-ssh.md.86016d7f.lean.js",
+    "url": "assets/articles_2023-04-24-clone-private-github-repository-using-ssh.md.b141dc58.lean.js",
     "revision": null
   }, {
-    "url": "assets/articles_2023-04-25-solve-the-page-expired-419-error-in-laravel.md.c5f52ef1.js",
+    "url": "assets/articles_2023-04-25-solve-the-page-expired-419-error-in-laravel.md.372629b6.js",
     "revision": null
   }, {
-    "url": "assets/articles_2023-04-25-solve-the-page-expired-419-error-in-laravel.md.c5f52ef1.lean.js",
+    "url": "assets/articles_2023-04-25-solve-the-page-expired-419-error-in-laravel.md.372629b6.lean.js",
     "revision": null
   }, {
-    "url": "assets/articles_2023-08-09-getting-started-with-git.md.8198b66e.js",
+    "url": "assets/articles_2023-08-09-getting-started-with-git.md.8f417090.js",
     "revision": null
   }, {
-    "url": "assets/articles_2023-08-09-getting-started-with-git.md.8198b66e.lean.js",
+    "url": "assets/articles_2023-08-09-getting-started-with-git.md.8f417090.lean.js",
     "revision": null
   }, {
-    "url": "assets/articles_2023-09-07-local-mail-server.md.bab55ceb.js",
+    "url": "assets/articles_2023-09-07-local-mail-server.md.183270b9.js",
     "revision": null
   }, {
-    "url": "assets/articles_2023-09-07-local-mail-server.md.bab55ceb.lean.js",
+    "url": "assets/articles_2023-09-07-local-mail-server.md.183270b9.lean.js",
     "revision": null
   }, {
-    "url": "assets/articles.md.191143eb.js",
+    "url": "assets/articles.md.d9f24783.js",
     "revision": null
   }, {
-    "url": "assets/articles.md.191143eb.lean.js",
+    "url": "assets/articles.md.d9f24783.lean.js",
     "revision": null
   }, {
-    "url": "assets/index.md.27cf758d.js",
+    "url": "assets/index.md.f6586bbb.js",
     "revision": null
   }, {
-    "url": "assets/index.md.27cf758d.lean.js",
+    "url": "assets/index.md.f6586bbb.lean.js",
     "revision": null
   }, {
     "url": "assets/inter-cyrillic-ext.0877b0d9.woff2",
@@ -267,16 +267,16 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "url": "assets/inter-vietnamese.2c644a25.woff2",
     "revision": null
   }, {
-    "url": "assets/projects.md.39f30780.js",
+    "url": "assets/projects.md.3743c0fb.js",
     "revision": null
   }, {
-    "url": "assets/projects.md.39f30780.lean.js",
+    "url": "assets/projects.md.3743c0fb.lean.js",
     "revision": null
   }, {
-    "url": "assets/resume.md.cf3475de.js",
+    "url": "assets/resume.md.94c7339b.js",
     "revision": null
   }, {
-    "url": "assets/resume.md.cf3475de.lean.js",
+    "url": "assets/resume.md.94c7339b.lean.js",
     "revision": null
   }, {
     "url": "assets/style.94825c9a.css",
@@ -310,7 +310,7 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "8b8e61771570c80c5470b1adaf2c44ee"
   }, {
     "url": "index.html",
-    "revision": "dcd6b3e19085b4b52854b5e9fffeca3e"
+    "revision": "863d0d200a7a93a23662907dd73b00c3"
   }, {
     "url": "masked-icon.svg",
     "revision": "8b8e61771570c80c5470b1adaf2c44ee"
@@ -319,7 +319,7 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "f020256b2109323117574ed955e15b13"
   }, {
     "url": "projects.html",
-    "revision": "1abfecbbc31b56ba52bd8202206a5ac5"
+    "revision": "99b8a7d286faf3ee72bf13ac938cc122"
   }, {
     "url": "projects/eazycare.app/new-logo.svg",
     "revision": "8bcc0aef753052adae872ffae4e45ac4"
@@ -346,7 +346,7 @@ define(['./workbox-3589c0c5'], (function (workbox) { 'use strict';
     "revision": "1872c500de691dce40960bb85481de07"
   }, {
     "url": "resume.html",
-    "revision": "79d264d10a6c9307baa4f52384fd5aa0"
+    "revision": "d556a1b8218ea5b7abb44dc94d6cbea0"
   }, {
     "url": "robots.txt",
     "revision": "5e0bd1c281a62a380d7a948085bfe2d1"
